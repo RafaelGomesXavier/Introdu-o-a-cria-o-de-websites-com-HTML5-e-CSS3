@@ -1,4 +1,5 @@
 # Introdução a criação de Web sites da Dio
+[Acesse o resultado do projeto clicando aqui.](https://rafaelgomesxavier.github.io/Introdu-o-a-cria-o-de-websites-com-HTML5-e-CSS3/)
 
 _0.01_
 ### Neste repositório foram abordados assuntos básicos de HTML5 como:
@@ -24,5 +25,4 @@ _Obs: Este repositório conta com conhecimentos básicos sobre o assunto, ajudan
 
 
 
-
->>> Este repositório foi criado com Git-Bash, utilizando comando git init, git add *, git commit -m, git pull e git push
+_Este repositório foi criado com Git-Bash, utilizando comando git init, git add *, git commit -m, git pull e git push_
